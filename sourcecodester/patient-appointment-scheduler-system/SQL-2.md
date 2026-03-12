@@ -1,4 +1,4 @@
-# Patient Appointment Scheduler System v1.0 by sourcecodester has SQL injection 1
+# Patient Appointment Scheduler System v1.0 by sourcecodester has SQL injection 2
 
 BUG_Author: Liu Lanling
 
